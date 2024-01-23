@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLThuVien", "QLThuVien.csproj", "{1023BF11-D20C-4B3F-80E4-C05A9A80768F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupQLTV", "..\SetupQLTV\SetupQLTV.vdproj", "{B8B29FA3-C3F8-4078-BFC6-B271A2A941CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1023BF11-D20C-4B3F-80E4-C05A9A80768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1023BF11-D20C-4B3F-80E4-C05A9A80768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1023BF11-D20C-4B3F-80E4-C05A9A80768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1023BF11-D20C-4B3F-80E4-C05A9A80768F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B29FA3-C3F8-4078-BFC6-B271A2A941CE}.Debug|Any CPU.ActiveCfg = Debug
+		{B8B29FA3-C3F8-4078-BFC6-B271A2A941CE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E319C7E-CAEA-405C-9C51-EE428D233C5C}
+	EndGlobalSection
+EndGlobal
